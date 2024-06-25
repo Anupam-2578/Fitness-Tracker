@@ -7,8 +7,6 @@
 #                                                            #
 ##############################################################
 
-# Updated by Dave Ebbelaar on 12-01-2023
-
 from sklearn.neural_network import MLPClassifier
 from sklearn.svm import SVC
 from sklearn.svm import LinearSVC
